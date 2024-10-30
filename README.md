@@ -31,6 +31,14 @@ However, recent advancements have significantly expanded VMN capabilities, drive
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Computational Networks](https://github.com/sourceduty/Computational_Networks)
+<br>
+[Network Simulator](https://github.com/sourceduty/Network_Simulator)
+<br>
+[Network Circuit Theory](https://github.com/sourceduty/Network_Circuit_Theory)
+<br>
+[Topology Optimize](https://github.com/sourceduty/Topology_Optimize)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
