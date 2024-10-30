@@ -1,4 +1,4 @@
-![Network](https://github.com/user-attachments/assets/59cd5100-957c-43ed-b73d-542d0338750b)
+![Network](https://github.com/user-attachments/assets/95899c64-f803-405a-8239-5f83c5cfb057)
 
 > Virtual networks of virtual machines that emulate the functionality of physical or digital networks.
 #
